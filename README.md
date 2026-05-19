@@ -72,6 +72,16 @@ Alongside development, I also work as a Technical Writer and enjoy writing blogs
 
 ---
 
+# LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Mihirsanghvi04?theme=dark&font=Nunito&ext=heatmap" />
+
+</p>
+
+---
+
 # Connect With Me
 
 <p align="left">
