@@ -74,12 +74,21 @@ Alongside development, I also work as a Technical Writer and enjoy writing blogs
 
 # Connect With Me
 
-- LinkedIn
-- Portfolio
-- Twitter/X
-- LeetCode
+<p align="left">
 
----
+<a href="https://www.linkedin.com/in/mihir-sanghvi-a931b7329/?skipRedirect=true">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://x.com/mihirsanghvi04">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" />
+</a>
+
+<a href="https://leetcode.com/u/Mihirsanghvi04/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</p>
 
 <p align="center">
 ✨ Building. Learning. Improving.
