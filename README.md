@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hey 👋, I'm Mihir</h1>
 
