@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hey 👋, I'm Mihir</h1>
 
 <h3 align="center">
@@ -7,50 +5,92 @@ MERN Stack Learner • ML/DL Enthusiast • Technical Writer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Learning+Full+Stack+Development;Interested+in+Machine+Learning;Technical+Writer+%26+Blogger;Building+Projects+Everyday" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Learning+Full+Stack+Development;Building+Projects+Consistently;Exploring+Machine+Learning+%26+AI;Technical+Writer+%26+Blogger" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mihirr-spec&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
 
 ---
 
-# About Me
+# 🚀 About Me
 
-I'm a passionate developer currently learning Full Stack Web Development with the MERN stack while exploring Machine Learning and Deep Learning.
+I'm a passionate developer currently learning **Full Stack Web Development** with the **MERN Stack** while also exploring **Machine Learning** and **Deep Learning**.
 
-Alongside development, I also work as a Technical Writer and enjoy writing blogs related to programming, development, and technology.
+Alongside development, I work as a **Technical Writer** and enjoy writing blogs related to programming, development, and technology.
 
 - 🌱 Currently learning MERN Stack
-- 🤖 Interested in Machine Learning & Deep Learning
+- 🤖 Exploring Machine Learning & Deep Learning
 - ✍️ Technical Writer & Blogger
-- 💼 Completed a Technical Writing Internship
-- 💻 Solving DSA and building projects consistently
+- 💼 Completed Technical Writing Internship
+- 💻 Solving DSA & building projects consistently
+- 🚀 Goal: Become a Full Stack + AI Engineer
 
 ---
 
-# Tech Stack
+# ⚡ Tech Stack
 
-### Languages
-- Python
-- JavaScript
-- C
-- HTML/CSS
+## 🖥️ Languages
 
-### Frameworks & Tools
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
-- VS Code
-
-### Domains
-- Full Stack Web Development
-- Machine Learning
-- Deep Learning
-- Technical Writing
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css" />
+</p>
 
 ---
 
-# GitHub Stats
+## ⚙️ Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+---
+
+## 🔧 Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://img.shields.io/badge/TRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+<img src="https://img.shields.io/badge/HONO-E36002?style=for-the-badge&logo=hono&logoColor=white" />
+<img src="https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+<img src="https://img.shields.io/badge/Planetscale-000000?style=for-the-badge&logo=planetscale&logoColor=white" />
+</p>
+
+---
+
+## ☁️ Cloud & Deployment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vercel,aws,docker,git" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
+
+---
+
+## 🤖 AI & Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenRouter-7B1FA2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -62,27 +102,23 @@ Alongside development, I also work as a Technical Writer and enjoy writing blogs
 
 ---
 
-# GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=mihirr-spec&theme=tokyonight&hide_border=true" />
-
 </p>
 
 ---
 
-# LeetCode Stats
+# 🧠 LeetCode Stats
 
 <p align="center">
-
 <img src="https://leetcard.jacoblin.cool/Mihirsanghvi04?theme=dark&font=Nunito&ext=heatmap" />
-
 </p>
 
 ---
 
-# Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -100,3 +136,8 @@ Alongside development, I also work as a Technical Writer and enjoy writing blogs
 
 </p>
 
+---
+
+<p align="center">
+⭐️ From <a href="https://github.com/mihirr-spec">mihirr-spec</a>
+</p>
